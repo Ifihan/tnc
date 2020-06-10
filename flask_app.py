@@ -30,10 +30,10 @@ def delete_file(img_title):
 
 def make_certificate(filename, first_name, last_name):
     # set certificate style
-    font = "Cinzel-Bold.otf"
+    font = "Coustard-Regular.ttf"
 
     # name style
-    color = "#c9a04b"
+    color = "#000000"
     size = 70
     y = 580
 
